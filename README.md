@@ -1,7 +1,7 @@
 # 👋 About Me:
-Student @ JNTUGV. 
-
-Me in 3 Words -- Hobbyist. Programmer. Tinkerer
+Hi I'm Shashank.
+I'm a Student @ JNTUGV. 
+Hobbyist. Programmer. Tinkerer
 
 ## 💬 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shashankfied) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/msrsaditya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@msrsaditya) 
